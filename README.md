@@ -52,16 +52,9 @@
 Currently, I'm focusing on mastering Kubernetes and aiming to obtain the Certified Kubernetes Administrator (CKA) certification. I believe Kubernetes is a key technology in modern cloud-native architectures, and deepening my understanding of it will greatly enhance my ability to design and manage scalable, resilient systems.
 
 
-
-### Projects 
-- Selenium Test Automation Framework: Developed a robust test automation framework using Selenium and Java, ensuring the quality and reliability of web applications.
-- CI/CD Pipelines: Implemented CI/CD pipelines with Jenkins, automating build, test, and deployment processes for multiple projects, resulting in faster delivery cycles and improved efficiency.
-- Infrastructure as Code: Leveraged Terraform and Ansible to provision and manage infrastructure resources on cloud platforms, enabling infrastructure scalability and repeatability.
-
-
 ### Certifications 
-Post Graduate Program in DevOps - Caltech CTME
-Certified Kubernetes Administrator (CKA) - In Progress
+- Post Graduate Program in DevOps - Caltech CTME
+- Certified Kubernetes Administrator (CKA) - In Progress
 
 ### Looking For 
 I'm currently seeking DevOps opportunities where I can continue to grow my skillset and contribute to building scalable, reliable, and automated systems. If you're interested in collaborating or have any exciting opportunities, feel free to reach out!
