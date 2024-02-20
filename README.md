@@ -1,11 +1,11 @@
 ![Profile Banner](https://github.com/akshay-imanuel/akshay-imanuel/assets/84606629/2001a2af-ffa8-43a7-8831-bea7f26e92cf)
 
-<h1> Hi there,👋 </h1>
-<h2> About Me </h2>
-<p>    I'm Akshay, a DevOps Engineer with a passion for automation, scalability, and reliability. With a background in Selenium test automation using Java, I've transitioned into the world of DevOps, where I'm constantly exploring new technologies and methodologies to streamline development workflows and improve system efficiency.
-</p>
+## Hi there,👋 
+### About Me 
+   I'm Akshay, a DevOps Engineer with a passion for automation, scalability, and reliability. With a background in Selenium test automation using Java, I've transitioned into the world of DevOps, where I'm constantly exploring new technologies and methodologies to streamline development workflows and improve system efficiency.
 
-### Skills
+
+### Skills 
 <div>
   <ul>
     <li> 
@@ -48,23 +48,25 @@
   </ul>
 </div>
 
-### Learning Journey
+### Learning Journey 
 Currently, I'm focusing on mastering Kubernetes and aiming to obtain the Certified Kubernetes Administrator (CKA) certification. I believe Kubernetes is a key technology in modern cloud-native architectures, and deepening my understanding of it will greatly enhance my ability to design and manage scalable, resilient systems.
 
-### Projects
+
+
+### Projects 
 - Selenium Test Automation Framework: Developed a robust test automation framework using Selenium and Java, ensuring the quality and reliability of web applications.
 - CI/CD Pipelines: Implemented CI/CD pipelines with Jenkins, automating build, test, and deployment processes for multiple projects, resulting in faster delivery cycles and improved efficiency.
 - Infrastructure as Code: Leveraged Terraform and Ansible to provision and manage infrastructure resources on cloud platforms, enabling infrastructure scalability and repeatability.
 
-### Certifications
+
+### Certifications 
 Post Graduate Program in DevOps - Caltech CTME
 Certified Kubernetes Administrator (CKA) - In Progress
 
-### Looking For
+### Looking For 
 I'm currently seeking DevOps opportunities where I can continue to grow my skillset and contribute to building scalable, reliable, and automated systems. If you're interested in collaborating or have any exciting opportunities, feel free to reach out!
 
-### Contact Me
-
+### Contact Me 
 <div id="badges">
   <a href="https://www.linkedin.com/in/akshay-n-imanuel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
