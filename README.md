@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Languages and Tools:
+aws bash docker git java jenkins kubernetes linux python
+
