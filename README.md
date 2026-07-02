@@ -2,7 +2,7 @@
 
 ## Hi there,👋 
 ### About Me 
-   Automation Engineer with 7+ years of experience in enterprise test automation, currently specializing in **Playwright** with JavaScript for modern web testing. Strong background in **Selenium-Java** automation, CI/CD pipelines, and Agile delivery. Proven ability to adapt to new automation technologies, contribute to scalable test frameworks, and ensure high-quality releases for complex systems.
+   Automation Engineer with 7+ years of experience in enterprise test automation, currently specializing in **Playwright** with JavaScript for modern web testing. Strong background in **Selenium-Java** automation, CI/CD pipelines, and Agile delivery. Actively leveraging **AI-assisted testing** techniques, including intelligent test design, AI-driven test generation, and prompt engineering for LLM-based tools to accelerate testing workflows, improve coverage, and reduce maintenance overhead. Passionate about modern quality engineering, intelligent automation, and continuous improvement. 
 
 
 ### Skills 
