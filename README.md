@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/akshay-imanuel/akshay-imanuel/assets/84606629/2001a2af-ffa8-43a7-8831-bea7f26e92cf)
+![Profile Banner](https://raw.githubusercontent.com/akshay-imanuel/akshay-imanuel/refs/heads/main/Akshay%20LinkedIn%20Banner.png)
 
 ## Hi there,👋 
 ### About Me 
