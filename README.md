@@ -2,7 +2,7 @@
 
 ## Hi there,👋 
 ### About Me 
-   I'm Akshay, a DevOps Engineer with a passion for automation, scalability, and reliability. With a background in Selenium test automation using Java, I've transitioned into the world of DevOps, where I'm constantly exploring new technologies and methodologies to streamline development workflows and improve system efficiency.
+   Automation Engineer with 7+ years of experience in enterprise test automation, currently specializing in Playwright with JavaScript for modern web testing. Strong background in Selenium-Java automation, CI/CD pipelines, and Agile delivery. Proven ability to adapt to new automation technologies, contribute to scalable test frameworks, and ensure high-quality releases for complex systems.
 
 
 ### Skills 
@@ -13,7 +13,7 @@
       <p align=“left”>
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>            </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>            </a>
       </p>
     </li>
     <li> 
@@ -21,16 +21,14 @@
       <p align=“left”>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
         <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"                 height="40"/> </a> 
-        <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
       </p>
     </li>
     <li> 
       <h4 align=“”left> Testing Automation: </h4>
       <p align=“left”>
-        <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium"           width="40" height="40"/> </a> 
+        <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium"           width="40" height="40"/> </a>
+         <a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://logo.svgcdn.com/logos/playwright.svg" alt="playwright"           width="40" height="40"/> </a>
       </p>
     </li>
     <li> 
@@ -49,15 +47,14 @@
 </div>
 
 ### Learning Journey 
-Currently, I'm focusing on mastering Kubernetes and aiming to obtain the Certified Kubernetes Administrator (CKA) certification. I believe Kubernetes is a key technology in modern cloud-native architectures, and deepening my understanding of it will greatly enhance my ability to design and manage scalable, resilient systems.
+Currently, I am focusing on strengthening my expertise in <h5> Playwright </h5> and applying <h5>AI in test automation</h5>. I see Playwright as a powerful tool for building fast and reliable end-to-end tests, and AI as a key enabler for smarter test design, maintenance, and execution. This learning journey is helping me create robust automation frameworks that are scalable, adaptive, and aligned with modern engineering standards.
 
 
 ### Certifications 
 - <a href="https://success.simplilearn.com/93934263"> Post Graduate Program in DevOps </a>- Caltech CTME
-- Certified Kubernetes Administrator (CKA) - In Progress
 
 ### Looking For 
-I'm currently seeking DevOps opportunities where I can continue to grow my skillset and contribute to building scalable, reliable, and automated systems. If you're interested in collaborating or have any exciting opportunities, feel free to reach out!
+I’m actively exploring SDET and Test Automation roles focused on Playwright and AI-driven testing. I’m passionate about building smart, scalable automation solutions and would love to connect on opportunities or collaborations.
 
 ### Contact Me 
 <div id="badges">
