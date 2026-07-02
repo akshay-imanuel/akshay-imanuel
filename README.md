@@ -47,7 +47,7 @@
 </div>
 
 ### Learning Journey 
-Currently, I am focusing on strengthening my expertise in <h5> Playwright </h5> and applying <h5>AI in test automation</h5>. I see Playwright as a powerful tool for building fast and reliable end-to-end tests, and AI as a key enabler for smarter test design, maintenance, and execution. This learning journey is helping me create robust automation frameworks that are scalable, adaptive, and aligned with modern engineering standards.
+Currently, I am focusing on strengthening my expertise in <h4> Playwright </h4> and applying <h4>AI in test automation</h4>. I see Playwright as a powerful tool for building fast and reliable end-to-end tests, and AI as a key enabler for smarter test design, maintenance, and execution. This learning journey is helping me create robust automation frameworks that are scalable, adaptive, and aligned with modern engineering standards.
 
 
 ### Certifications 
